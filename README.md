@@ -4,7 +4,7 @@
 App Academy Student Final Project by Julie Kang.   
 Single-Page book sharing app inspired by GoodReads.   
 Backbone.js on Rails, styled with Twitter Bootstrap using [the Amelia template from Bootswatch] (http://bootswatch.com/amelia/).    
-Developed in 7 Days.   
+Developed in 7 Days. So there!
 http://www.kidreads.org/ for a demo.   
 
 ### Screenshots
